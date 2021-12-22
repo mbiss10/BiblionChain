@@ -1,5 +1,11 @@
-# BiblionChain
+# BiblionChain 📚🤝⛓
+ *Your Bookshelf. On Chain.*  
+ 
+See it in action 👀 📖
 
-DEMO:
-https://user-images.githubusercontent.com/50077908/147161835-2e9ada40-343a-406d-a48d-4080db30f3d0.mp4
+https://user-images.githubusercontent.com/50077908/147162540-f1ad28d5-95d3-4a0c-afb7-20b23db11e6b.mp4
 
+BibliOnChain comes from the Greek word *biblíon*, meaning “book,” and the concept of information being stored "on chain," i.e. on a blockchain where it resides in an immutable, distributed ledger that's resistant to tampering.  
+
+The contract underlying this dApp is deployed to Ethereum's Rinkeby Test Network at address: ```0x81240c5C2d5537Df783C20D5dbb71AE43f9eca0F```.  
+Click [here](https://rinkeby.etherscan.io/address/0x81240c5C2d5537Df783C20D5dbb71AE43f9eca0F) to view on Etherscan.
