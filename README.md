@@ -12,4 +12,6 @@ Click [here](https://rinkeby.etherscan.io/address/0x81240c5C2d5537Df783C20D5dbb7
 
 BiblionChain leverages [the Google Books API](https://developers.google.com/books/docs/v1/using).   
 
-*This was a quick project to practice web3 / smart contract development. Not currently intended for public use. Plan to update contract in the near future with lessons learned from more recent Solidity courses/lessons/practice. *
+---  
+
+*This was a quick project to practice web3 / smart contract development. Not currently intended for public use. Plan to update contract in the near future with lessons learned from more recent Solidity courses/lessons/practice.*
